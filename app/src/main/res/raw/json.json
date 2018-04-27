@@ -1,0 +1,58 @@
+{
+  "categorias": {
+    "cores": [
+      {
+        "content": "aaaa",
+        "type": "1",
+        "id":  "2"
+      },
+      {
+        "content": "aaaa",
+        "type": "1",
+        "id":  "2"
+      }
+    ],
+    "tam": [
+      {
+        "content": "P",
+        "type": "1",
+        "id":  "2"
+      },
+      {
+        "content": "m",
+        "type": "1",
+        "id":  "2"
+      }
+    ],
+    "Tipo": [
+      {
+        "content": "confort",
+        "type": "1",
+        "id":  "2"
+      },
+      {
+        "content": "premium",
+        "type": "1",
+        "id":  "2"
+      }
+    ],
+    "Altura": [
+      {
+        "content": "13cm",
+        "type": "1",
+        "id":  "2"
+      },
+      {
+        "content": "14m",
+        "type": "1",
+        "id":  "2"
+      }
+    ]
+  },
+  "info":
+  {
+
+  }
+
+
+}
